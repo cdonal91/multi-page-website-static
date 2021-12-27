@@ -1,3 +1,6 @@
+/*font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif; */
+
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
@@ -13,6 +16,7 @@ h2,
 h3 {
   text-align: center;
   margin: 0;
+  font-family: "Playfair Display", serif;
 }
 
 h1 {
@@ -31,6 +35,7 @@ h3 {
 p {
   font-size: 18px;
   line-height: 1.5;
+  font-family: "Poppins", sans-serif;
 }
 
 .navigation-links {
