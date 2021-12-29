@@ -101,6 +101,32 @@ p {
 .about-section-content {
   margin: 30px;
 }
+
+.work-section {
+  padding: 130px 20px;
+}
+.work-section h1 {
+  font-size: 56px;
+  line-height: 50px;
+  text-align: left;
+  font-weight: 650;
+}
+
+.work-section h3 {
+  font-family: var(--body-font);
+  font-weight: 400px;
+  font-size: 15px;
+  line-height: 1;
+}
+.work-section p {
+  font-family: var(--body-font);
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 1;
+}
+.work-section-content {
+  margin: 30px;
+}
 .cad-photo {
   border-radius: 12px;
 }
