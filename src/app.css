@@ -127,6 +127,16 @@ p {
 .work-section-content {
   margin: 30px;
 }
+
+.contact-section {
+  padding: 130px 20px;
+}
+.contact-section h1 {
+  font-size: 56px;
+  line-height: 50px;
+  text-align: left;
+  font-weight: 650;
+}
 .cad-photo {
   border-radius: 12px;
 }
